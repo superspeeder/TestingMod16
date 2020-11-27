@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "on=false": {
+      "model": "testmod:block/glowfountain_off"
+    },
+    "on=true": {
+      "model": "testmod:block/glowfountain_on"
+    }
+  }
+}
